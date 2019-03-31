@@ -1,2 +1,0 @@
-# StudentsList
-Created with CodeSandbox
